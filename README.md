@@ -1,1 +1,1 @@
-readme for doubly linked lists
+readme for alx low level programming
